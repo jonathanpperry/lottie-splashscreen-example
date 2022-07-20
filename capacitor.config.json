@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.jonnyramen.lottiesplash",
   "appName": "lottieSplash",
   "webDir": "www",
   "bundledWebRuntime": false,
@@ -9,7 +9,9 @@
   },
   "cordova": {
     "preferences": {
-      "SimonsKey": true
+      "LottieFullScreen": "true",
+	  "LottieHideAfterAnimationEnd": "true",
+	  "LottieAnimationLocation": "public/assets/splash.json"
     }
   }
 }
