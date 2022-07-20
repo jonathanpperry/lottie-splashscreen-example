@@ -1,0 +1,7 @@
+{
+  "name": "lottieSplash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
